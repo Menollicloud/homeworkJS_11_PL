@@ -1,5 +1,5 @@
-let a = [1,2,3, 'hello',4,5];
-let b = [1,2,3, true, 4, undefined, 6];
+const a = [1,2,3, 'hello',4,5];
+const b = [1,2,3, true, 4, undefined, 6];
 
 function sumArr(firstArr, secondArr) {
     let sum1 = 0;  
